@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </span>
 
-**[Tool]**
+**[Framework]**
 <!--OpenCV-->
 <span>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
@@ -47,7 +47,9 @@
 <span>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=black"/>
 </span>
-<br><br>
+
+
+**[Tool]**
 <!--VS-->
 <span>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
@@ -71,6 +73,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 </span>
 
+<br><br>
 
 <!--RPI-->
 <span>
