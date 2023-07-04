@@ -1,7 +1,9 @@
 <div align="center">
   
 ### Hi, I'm GunHee 👋
-### 🚀stack🚀
+**School🏫: Tech University of Korea**  
+**Major📖: Mechatronics Engineering**
+#### 🚀stack🚀
 
 **[Programming Language]**
 <!--Python-->
