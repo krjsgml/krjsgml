@@ -41,12 +41,22 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </span>
 
+<!--html-->
+<span>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white"/>
+</span>
+
+<!--CSS-->
+<span>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white"/>
+</span>
+<br>
+
 <!--Linux-->
 <span>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
 </span>
 
-<br>
 <!--VS-->
 <span>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
@@ -56,6 +66,12 @@ Here are some ideas to get you started:
 <span>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 </span>
+
+<!--Atom-->
+<span>
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
+</span>
+
 
 <!--GitHub-->
 <span>
